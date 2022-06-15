@@ -115,6 +115,10 @@ h6,
     transition: .5s;
 }
 
+.dropdown-item {
+    color: #103741 !important;
+}
+
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
